@@ -1,0 +1,38 @@
+.nav-lista{
+    display: flex;
+    list-style: none;
+    color:black;
+    padding: 10px 0px;
+    margin: 0px;
+    justify-content:space-around;
+    font-size: 20px;
+}
+
+.body{
+    text-align: center;
+    width: 1500;
+    height: 400;
+    line-height: 100px;
+    margin: 0px;
+    justify-content: space-between;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.html{
+    background-color: rgb(231, 231, 231);
+    height:100%;
+}
+
+.lista-img{
+    column-gap: 100px;
+    
+}
+
+footer{
+    background-color:rgb(54, 54, 54);
+    text-align: center;
+    color: white;
+    padding: 10px 0px;
+}
